@@ -19,13 +19,13 @@ que dependem da **gestão eficiente de informações**.
 
 📂 Estrutura do Projeto
 📦 estudo-sql
-┣ 📄 ComandosDDL.sql
-┣ 📄 ComandosDML.sql
-┣ 📄 Constraints-Restricoes.sql
-┣ 📄 CriacaoDeBanco.sql
-┣ 📄 CriarTabela.sql
-┣ 📄 TiposDeDadosMaisUsados.sql
-┣ 📄 README.md
+├── ComandosDDL.sql
+├── ComandosDML.sql
+├── Constraints-Restricoes.sql
+├── CriacaoDeBanco.sql
+├── CriarTabela.sql
+├── TiposDeDadosMaisUsados.sql
+└── README.mdd
 
 ---
 
