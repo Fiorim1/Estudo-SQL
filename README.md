@@ -17,7 +17,7 @@ com o objetivo de **compreender e aplicar os principais conceitos e comandos** u
 Tudo isso com o intuito de proporcionar uma **base sólida** para o desenvolvimento de aplicações  
 que dependem da **gestão eficiente de informações**.
 
-📂 Estrutura do Projeto
+📂 Estrutura do Projeto <br>
 📦 estudo-sql
 ├── ComandosDDL.sql
 ├── ComandosDML.sql
