@@ -18,13 +18,13 @@ Tudo isso com o intuito de proporcionar uma **base sólida** para o desenvolvime
 que dependem da **gestão eficiente de informações**.
 
 📂 Estrutura do Projeto <br>
-📦 estudo-sql
-├── ComandosDDL.sql
-├── ComandosDML.sql
-├── Constraints-Restricoes.sql
-├── CriacaoDeBanco.sql
-├── CriarTabela.sql
-├── TiposDeDadosMaisUsados.sql
+📦 estudo-sql<br>
+├── ComandosDDL.sql <br>
+├── ComandosDML.sql <br>
+├── Constraints-Restricoes.sql <br>
+├── CriacaoDeBanco.sql <br>
+├── CriarTabela.sql <br>
+├── TiposDeDadosMaisUsados.sql<br>
 └── README.mdd
 
 ---
