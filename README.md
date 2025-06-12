@@ -24,7 +24,8 @@ que dependem da **gestão eficiente de informações**.
 ├── ComandosDML.sql <br>
 ├── Constraints-Restricoes.sql <br>
 ├── CriacaoDeBanco.sql <br>
-├── CriarTabela.sql <br>
+├── CriarTabela.sql <br> 
+├── FuncoesUteis.sql <br>
 ├── Joins-UniaoEntreTabelas <br>
 ├── TiposDeDadosMaisUsados.sql<br>
 └── README.mdd
